@@ -1,8 +1,10 @@
 # gikonekos
 
-Retro computer software preservation and development.
+Retro computer software archive and development.  
+レトロコンピュータソフトウェアの保存と開発。
 
-I preserve and reconstruct historical software from the Japanese retro computing scene.
+I preserve and reconstruct historical software from the Japanese retro computing scene.  
+日本のレトロコンピュータ文化に関する歴史的ソフトウェアの保存と再構築を行っています。
 
 ## Main systems
 
