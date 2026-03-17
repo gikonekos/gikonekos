@@ -1,16 +1,41 @@
-## Hi there 👋
+# gikonekos
 
-<!--
-**gikonekos/gikonekos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Retro computer software preservation and development.
 
-Here are some ideas to get you started:
+I preserve and reconstruct historical software from the Japanese retro computing scene.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main systems
+
+- SHARP PC-E500 pocket computer series
+- NEC PC-9801 DOS platform
+
+## Projects
+
+### PLAY3 Archive
+Reconstruction of the three-voice buzzer music driver published in *Pocket Computer Journal (1993)*.
+
+https://github.com/gikonekos/PLAY3-Archive
+
+### Building Rescue Archive
+Historical archive of the PC-E500 action game *Building Rescue*.
+
+https://github.com/gikonekos/Building-Rescue-Archive
+
+### Space Panicco (in preparation)
+PC-9801 DOS game project.
+
+## Interests
+
+- retro computers
+- pocket computers
+- Japanese computer magazine culture
+- software preservation
+- sound drivers and MML systems
+
+## Links
+
+YouTube  
+https://youtube.com/@gikonekosw
+
+X (Twitter)  
+https://x.com/qptn
