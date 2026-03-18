@@ -25,6 +25,7 @@ https://github.com/gikonekos/Building-Rescue-Archive
 
 ### Space Panicco (in preparation)
 PC-9801 DOS game project.
+https://github.com/gikonekos/Space-Panicco-Archive
 
 ## Interests
 
