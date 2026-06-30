@@ -57,6 +57,12 @@ https://github.com/gikonekos/Space-Panicco-Archive
 - software preservation
 - sound drivers and MML systems
 
+## Community
+
+Please introduce yourself in our Discussions section:
+
+https://github.com/gikonekos/Building-Rescue-Archive/discussions
+
 ## Links
 
 **Hackaday article (PLAY3)**  
