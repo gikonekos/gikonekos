@@ -8,9 +8,9 @@ Responsible for graphics and BGM.
 I preserve and reconstruct historical software from the Japanese retro computing scene.  
 日本のレトロコンピュータ文化に関する歴史的ソフトウェアの保存と再構築を行っています。
 
-Personal experiments and creative projects:
+Personal experiments and creative projects are available on my website.
 
-https://motoikenkichi.com/
+[motoikenkichi.com](https://motoikenkichi.com/)
 
 ---
 
