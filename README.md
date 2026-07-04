@@ -2,11 +2,15 @@
 
 ## About
 
-Original developer of the PC-98 doujin game "Space Panicco" (1994).  
-Graphics and BGM author.
+Original developer of the 1994 PC-98 doujin game "Space Panicco".
+Responsible for graphics and BGM.
 
 I preserve and reconstruct historical software from the Japanese retro computing scene.  
 日本のレトロコンピュータ文化に関する歴史的ソフトウェアの保存と再構築を行っています。
+
+Personal experiments and creative projects:
+
+https://motoikenkichi.com/
 
 ---
 
@@ -25,7 +29,7 @@ Retro computer software archive and development.
 ### PLAY3 Archive
 Reconstruction of the three-voice buzzer music driver published in *Pocket Computer Journal* (1993).
 
-This is a scan-faithful reconstruction verified against real hardware.
+A scan-faithful reconstruction verified against the original binary and real hardware.
 
 https://github.com/gikonekos/PLAY3-Archive
 
@@ -59,7 +63,7 @@ https://github.com/gikonekos/Space-Panicco-Archive
 
 ## Community
 
-Please introduce yourself in our Discussions section:
+Please introduce yourself in the Discussions section if you're interested.
 
 https://github.com/gikonekos/Building-Rescue-Archive/discussions
 
