@@ -12,6 +12,14 @@ Personal experiments and creative projects are available on my website.
 
 [motoikenkichi.com](https://motoikenkichi.com/)
 
+## ❤️ Support
+
+If you enjoy my open-source software, retro computing preservation, and game development, please consider supporting my work.
+
+Your support helps me continue maintaining and preserving these projects.
+
+**PayPal:** https://www.paypal.com/paypalme/gikonekos
+
 ---
 
 ## Focus
