@@ -68,7 +68,7 @@ I preserve and reconstruct historical software from the Japanese retro computing
 | [ksphp-plus-gikonekos](https://github.com/gikonekos/ksphp-plus-gikonekos) | Unofficial KSPHP Plus derivative (multilingual, maintenance). |
 | [ksphp-plus-gikonekos-archive](https://github.com/gikonekos/ksphp-plus-gikonekos-archive) | Development archive for the above. |
 | [legacy-bbs-toolkit](https://github.com/gikonekos/legacy-bbs-toolkit) | Preprocessing foundation for Japanese BBS log archives (spec in progress). |
-| [zantei-utf8](https://github.com/gikonekos/zantei-utf8) | UTF-8 conversion / hardening for related Perl tooling. |
+| [zantei-utf8](https://github.com/gikonekos/zantei-utf8) | UTF-8 conversion, security hardening, and Perl 5.38+ update for the あやしいわーるど＠暫定 CGI script set (kuzuhascript-based). |
 | [-to-utf8-php](https://github.com/gikonekos/-to-utf8-php) | Generic CP932 / EUC-JP → UTF-8 converter (PHP). |
 | [ng-check-php](https://github.com/gikonekos/ng-check-php) | NG-word checker with hashed dictionary (PHP). |
 
